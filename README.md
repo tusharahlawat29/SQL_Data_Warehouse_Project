@@ -4,10 +4,11 @@
 An end-to-end Data Warehouse and Analytics solution implementing Medallion Architecture. This project demonstrates comprehensive data engineering skills including ETL pipeline development, data modeling, and business intelligence reporting.
 
 ## 🏗️ Architecture
+```
 Bronze Layer (Raw Data) → Silver Layer (Cleaned Data) → Gold Layer (Business Ready)
-<img width="1544" height="801" alt="data_architecture" src="https://github.com/user-attachments/assets/649f969b-b0c9-493b-adbf-c80475cdd053" />
+```
 
-text
+<img width="1544" height="801" alt="data_architecture" src="https://github.com/user-attachments/assets/649f969b-b0c9-493b-adbf-c80475cdd053" />
 
 ## 🛠️ Tech Stack
 - **Database**: SQL Server
@@ -16,20 +17,14 @@ text
 - **Tools**: SSMS, DrawIO, Git
 
 ## 📂 Project Structure
-
+```
 data-warehouse-project/
-
-├── datasets/ # Raw CSV datasets
-
-├── docs/ # Architecture diagrams
-
-├── scripts/ # ETL pipelines (Bronze/Silver/Gold)
-
-├── tests/ # Data quality checks
-
+├── datasets/          # Raw CSV datasets
+├── docs/             # Architecture diagrams
+├── scripts/          # ETL pipelines (Bronze/Silver/Gold)
+├── tests/            # Data quality checks
 └── README.md
-
-text
+```
 
 ## 🎯 Key Features
 - ✅ Medallion Architecture Implementation
@@ -59,7 +54,13 @@ This project was developed as part of my data engineering learning journey. The 
 - Analytical reports for decision making
 - Scalable data warehouse architecture
 
+---
+
 *This project showcases my practical understanding of data engineering concepts and ability to implement end-to-end data solutions.*
-## Thank You
+
+## 🙏 Thank You
 **Tushar Ahlawat**
 
+- Cleaned up structure
+
+**Ab ye README perfect hai! 🚀 GitHub pe update kar do!**
