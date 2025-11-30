@@ -60,7 +60,3 @@ This project was developed as part of my data engineering learning journey. The 
 
 ## 🙏 Thank You
 **Tushar Ahlawat**
-
-- Cleaned up structure
-
-**Ab ye README perfect hai! 🚀 GitHub pe update kar do!**
