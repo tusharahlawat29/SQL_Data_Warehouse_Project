@@ -16,11 +16,17 @@ text
 - **Tools**: SSMS, DrawIO, Git
 
 ## 📂 Project Structure
+
 data-warehouse-project/
+
 ├── datasets/ # Raw CSV datasets
+
 ├── docs/ # Architecture diagrams
+
 ├── scripts/ # ETL pipelines (Bronze/Silver/Gold)
+
 ├── tests/ # Data quality checks
+
 └── README.md
 
 text
@@ -52,7 +58,6 @@ This project was developed as part of my data engineering learning journey. The 
 - Business-ready data models
 - Analytical reports for decision making
 - Scalable data warehouse architecture
-- 
 
 *This project showcases my practical understanding of data engineering concepts and ability to implement end-to-end data solutions.*
 ## Thank You
